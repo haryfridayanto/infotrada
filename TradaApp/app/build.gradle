@@ -30,6 +30,8 @@ android {
 }
 
 dependencies {
+    // Selaraskan seluruh modul Kotlin (hindari duplikat kotlin-stdlib-jdk7/jdk8 lama).
+    implementation platform('org.jetbrains.kotlin:kotlin-bom:1.9.24')
     implementation 'androidx.appcompat:appcompat:1.7.0'
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
     implementation 'androidx.cardview:cardview:1.0.0'
