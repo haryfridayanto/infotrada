@@ -1,0 +1,3598 @@
+{
+  "source": "MASTER_DATABASE_TRADA_2027 — 38_STATUS112_TERKINI",
+  "verifiedAsOf": "2026-11-01",
+  "generatedBy": "TRADA Android Hybrid snapshot",
+  "summary": {
+    "klienTotal": 242,
+    "targetAktif2027": 59,
+    "nilaiTargetBerbayar2027": 6793200000,
+    "invoiceOutstandingJml": 11,
+    "invoiceOutstandingNilai": 462751432,
+    "penerimaanPending": 0,
+    "status112Total": 510,
+    "status112PerluReview": 22,
+    "pipeline": {
+      "HISTORIS": 72,
+      "Surat Penawaran": 58,
+      "Target": 1
+    }
+  },
+  "statusCounts": {
+    "FREE": 265,
+    "AKTIF-112": 217,
+    "SURAT PERMOHONAN PEMBUKAAN AKSES": 19,
+    "PENUNJUKAN": 9
+  },
+  "rows": [
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Barat Daya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Besar",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Jaya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Singkil",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Tamiang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Tengah",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Tenggara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Aceh Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Bener Meriah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Bireuen",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Gayo Lues",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Nagan Raya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Pidie",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Pidie Jaya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Kab Simeulue",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Banda Aceh",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Langsa",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Lhokseumawe",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Sabang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "ACEH",
+      "k": "Subulussalam",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Kab Badung",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Kab Bangli",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Kab Buleleng",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Kab Gianyar",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INFOMEDIA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Kab Jembrana",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Kab Karangasem",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Kab Klungkung",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Kab Tabanan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BALI",
+      "k": "Denpasar",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANGKA BELITUNG",
+      "k": "Kab Bangka",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANGKA BELITUNG",
+      "k": "Kab Bangka Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANGKA BELITUNG",
+      "k": "Kab Bangka Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANGKA BELITUNG",
+      "k": "Kab Bangka Tengah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANGKA BELITUNG",
+      "k": "Kab Belitung",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANGKA BELITUNG",
+      "k": "Kab Belitung Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANGKA BELITUNG",
+      "k": "Pangkalpinang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANTEN",
+      "k": "Kab Lebak",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INFOMEDIA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANTEN",
+      "k": "Kab Pandeglang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANTEN",
+      "k": "Kab Serang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANTEN",
+      "k": "Kab Tangerang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANTEN",
+      "k": "Cilegon",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANTEN",
+      "k": "Serang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANTEN",
+      "k": "Tangerang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BANTEN",
+      "k": "Tangerang Selatan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Bengkulu Selatan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Bengkulu Tengah",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Bengkulu Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Kaur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Kepahiang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Lebong",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Mukomuko",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Rejang Lebong",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Kab Seluma",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "BENGKULU",
+      "k": "Bengkulu",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "DKI JAKARTA",
+      "k": "Jakarta",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "GORONTALO",
+      "k": "Kab Boalemo",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "GORONTALO",
+      "k": "Kab Bone Bolango",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "GORONTALO",
+      "k": "Kab Gorontalo",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "GORONTALO",
+      "k": "Kab Gorontalo Utara",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "GORONTALO",
+      "k": "Kab Pohuwato",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "GORONTALO",
+      "k": "Gorontalo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Batanghari",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Bungo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Kerinci",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Merangin",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Muaro Jambi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Sarolangun",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Tanjung Jabung Barat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Tanjung Jabung Timur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Kab Tebo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Jambi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAMBI",
+      "k": "Sungaipenuh",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Bandung",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Bandung Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Bekasi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Bogor",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Ciamis",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Cianjur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Cirebon",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Garut",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Indramayu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Karawang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Kuningan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Majalengka",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Pangandaran",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Purwakarta",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Subang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Sukabumi",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Sumedang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Kab Tasikmalaya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Bandung",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Banjar",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Bekasi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Bogor",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Cimahi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Cirebon",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Depok",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Sukabumi",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA BARAT",
+      "k": "Tasikmalaya",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Banjarnegara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Banyumas",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Batang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Blora",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Boyolali",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Brebes",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Cilacap",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Demak",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Grobogan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Jepara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Karanganyar",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Kebumen",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Kendal",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Klaten",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Kudus",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Magelang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Pati",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Pekalongan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Pemalang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Purbalingga",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Purworejo",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Rembang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Semarang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Sragen",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Sukoharjo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Tegal",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Temanggung",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Wonogiri",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Kab Wonosobo",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Magelang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Pekalongan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Salatiga",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Semarang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Surakarta",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TENGAH",
+      "k": "Tegal",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Bangkalan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Banyuwangi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Blitar",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Bojonegoro",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Bondowoso",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Gresik",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Jember",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Jombang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Kediri",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Lamongan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Lumajang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Madiun",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Magetan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Malang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Mojokerto",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Nganjuk",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Ngawi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Pacitan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Pamekasan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Pasuruan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Ponorogo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Probolinggo",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Sampang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Sidoarjo",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Situbondo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Sumenep",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Trenggalek",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Tuban",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kab Tulungagung",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Batu",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Blitar",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Kediri",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Madiun",
+      "s": "AKTIF-112",
+      "prov_penyedia": "SOFINDO",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Malang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "SOFINDO",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Mojokerto",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Pasuruan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Probolinggo",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "JAWA TIMUR",
+      "k": "Surabaya",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Bengkayang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Kapuas Hulu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Kayong Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Ketapang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Kubu Raya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Landak",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Melawi",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Mempawah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Sambas",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Sanggau",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Sekadau",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Kab Sintang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Pontianak",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN BARAT",
+      "k": "Singkawang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Balangan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Banjar",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Barito Kuala",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Hulu Sungai Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Hulu Sungai Tengah",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Hulu Sungai Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab baru",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Tabalong",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Tanah Bumbu",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Tanah Laut",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Kab Tapin",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Banjarbaru",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN SELATAN",
+      "k": "Banjarmasin",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Barito Selatan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Barito Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Barito Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Gunung Mas",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Kapuas",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Katingan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab waringin Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab waringin Timur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Lamandau",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Murung Raya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Pulang Pisau",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Seruyan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Kab Sukamara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TENGAH",
+      "k": "Palangka Raya",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Kab Berau",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Kab Kutai Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Kab Kutai Kartanegara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Kab Kutai Timur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Kab Mahakam Ulu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Kab Paser",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Kab Penajam Paser Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Balikpapan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Bontang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN TIMUR",
+      "k": "Samarinda",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN UTARA",
+      "k": "Kab Bulungan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN UTARA",
+      "k": "Kab Malinau",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN UTARA",
+      "k": "Kab Nunukan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "KALIMANTAN UTARA",
+      "k": "Kab Tana Tidung",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KALIMANTAN UTARA",
+      "k": "Tarakan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KEPULAUAN RIAU",
+      "k": "Kab Bintan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KEPULAUAN RIAU",
+      "k": "Kab Karimun",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KEPULAUAN RIAU",
+      "k": "Kab Kepulauan Anambas",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KEPULAUAN RIAU",
+      "k": "Kab Lingga",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KEPULAUAN RIAU",
+      "k": "Kab Natuna",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KEPULAUAN RIAU",
+      "k": "Batam",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "KEPULAUAN RIAU",
+      "k": "Tanjungpinang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Lampung Barat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Lampung Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Lampung Tengah",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Lampung Timur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Lampung Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Mesuji",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Pesawaran",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Pesisir Barat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Pringsewu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Tanggamus",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Tulang Bawang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Tulang Bawang Barat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Kab Way Kanan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Bandar Lampung",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "LAMPUNG",
+      "k": "Metro",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Buru",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Buru Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Kepulauan Aru",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Kepulauan Tanimbar",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Maluku Barat Daya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Maluku Tengah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Maluku Tenggara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Seram Bagian Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Kab Seram Bagian Timur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Ambon",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU",
+      "k": "Tual",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Kab Halmahera Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Kab Halmahera Selatan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Kab Halmahera Tengah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Kab Halmahera Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Kab Halmahera Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Kab Kepulauan Sula",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Kab Pulau Morotai",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "PERLU_REVIEW_BUKTI"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Kab Pulau Taliabu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Ternate",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "MALUKU UTARA",
+      "k": "Tidore Kepulauan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Kab Bima",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Kab Dompu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Kab Lombok Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Kab Lombok Tengah",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Kab Lombok Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Kab Lombok Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Kab Sumbawa",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Kab Sumbawa Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Bima",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA BARAT",
+      "k": "Mataram",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Alor",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Belu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Ende",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Flores Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Kupang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Lembata",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Malaka",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Manggarai",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Manggarai Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Manggarai Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Nagekeo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Ngada",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Rote Ndao",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Sabu Raijua",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Sikka",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Sumba Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Sumba Barat Daya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Sumba Tengah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Sumba Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Timor Tengah Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kab Timor Tengah Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "NUSA TENGGARA TIMUR",
+      "k": "Kupang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Fakfak",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Kaimana",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Manokwari",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Manokwari Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Maybrat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Pegunungan Arfak",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Raja Ampat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Sorong",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Sorong Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Tambrauw",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Teluk Bintuni",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Kab Teluk Wondama",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA BARAT",
+      "k": "Sorong",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Asmat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Biak Numfor",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Boven Digoel",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Deiyai",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Dogiyai",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Intan Jaya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Jayapura",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Jayawijaya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Keerom",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Kepulauan Yapen",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Lanny Jaya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Mamberamo Raya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Mamberamo Tengah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Mappi",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Merauke",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Mimika",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Nabire",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Nduga",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Paniai",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Pegunungan Bintang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Puncak",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Puncak Jaya",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Sarmi",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Supiori",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Tolikara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Waropen",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Yahukimo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Kab Yalimo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "PAPUA",
+      "k": "Jayapura",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Bengkalis",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Indragiri Hilir",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Indragiri Hulu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Kampar",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Kepulauan Meranti",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Kuantan Singingi",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Pelalawan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Rokan Hilir",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Rokan Hulu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Kab Siak",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Dumai",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "RIAU",
+      "k": "Pekanbaru",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI BARAT",
+      "k": "Kab Majene",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI BARAT",
+      "k": "Kab Mamasa",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI BARAT",
+      "k": "Kab Mamuju",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI BARAT",
+      "k": "Kab Mamuju Tengah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI BARAT",
+      "k": "Kab Pasangkayu",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI BARAT",
+      "k": "Kab Polewali Mandar",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Bantaeng",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Barru",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Bone",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Bulukumba",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Enrekang",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Gowa",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Jeneponto",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Kepulauan Maros",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab. Kepulauan Selayar",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Luwu",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Luwu Timur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Luwu Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INFOMEDIA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Maros",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Pangkajene dan Kepulauan",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Pinrang",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Sidenreng Rappang",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Sinjai",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Soppeng",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Takalar",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Tana Toraja",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Toraja Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INFOMEDIA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Kab Wajo",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Makassar",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Palopo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI SELATAN",
+      "k": "Pare Pare",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INFOMEDIA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Banggai",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Banggai Kepulauan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Banggai Laut",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Buol",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Donggala",
+      "s": "AKTIF-112",
+      "prov_penyedia": "BELUM TERIDENTIFIKASI",
+      "review": "PERLU_VERIFIKASI"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Morowali",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Morowali Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Parigi Moutong",
+      "s": "AKTIF-112",
+      "prov_penyedia": "BELUM TERIDENTIFIKASI",
+      "review": "PERLU_VERIFIKASI"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Poso",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Sigi",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Tojo Una-Una",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Kab Tolitoli",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGAH",
+      "k": "Palu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Bombana",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Buton",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Buton Selatan",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Buton Tengah",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Buton Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Kolaka",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Kolaka Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Kolaka Utara",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Konawe",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Konawe Kepulauan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Konawe Selatan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Konawe Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Muna",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Muna Barat",
+      "s": "PENUNJUKAN",
+      "prov_penyedia": "TRADA",
+      "review": "KONFLIK_RAW_DAN_MULTI_PERLU_REVIEW"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kab Wakatobi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Bau-Bau",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI TENGGARA",
+      "k": "Kendari",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Bolaang Mongondow",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Bolaang Mongondow Selatan",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Bolaang Mongondow Timur",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Bolaang Mongondow Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Kepulauan Sangihe",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Kepulauan Siau Tagulandang Biaro",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Kepulauan Talaud",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Minahasa",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Minahasa Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Minahasa Tenggara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kab Minahasa Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Bitung",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Kotamobagu",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Manado",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SULAWESI UTARA",
+      "k": "Tomohon",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Agam",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Dharmasraya",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Kepulauan Mentawai",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Lima Puluh",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Padang Pariaman",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INFOMEDIA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Pasaman",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Pasaman Barat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Pesisir Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Sijunjung",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Solok",
+      "s": "SURAT PERMOHONAN PEMBUKAAN AKSES",
+      "prov_penyedia": "TRADA (PENUNJUKAN)",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Solok Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Kab Tanah Datar",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Bukittinggi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Padang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "TRADA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Padang panjang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INFOMEDIA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Pariaman",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Payakumbuh",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Sawahlunto",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA BARAT",
+      "k": "Solok",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Banyuasin",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Empat Lawang",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Lahat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Muara Enim",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Musi Banyuasin",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Musi Rawas",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Musi Rawas Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Ogan Ilir",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Ogan Komering Ilir",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Ogan Komering Ulu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Ogan Komering Ulu Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Ogan Komering Ulu Timur",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Kab Penukal Abab Lematang Ilir",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Lubuklinggau",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Pagar Alam",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Palembang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA SELATAN",
+      "k": "Prabumulih",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Asahan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Batu Bara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Dairi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Deli Serdang",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INDOSAT",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Humbang Hasundutan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Karo",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Labuhanbatu",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Labuhanbatu Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Labuhanbatu Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Langkat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Mandailing Natal",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Nias",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Nias Barat",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Nias Selatan",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Nias Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Padang Lawas",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Padang Lawas Utara",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Pakpak Bharat",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Samosir",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Serdang Bedagai",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Simalungun",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Tapanuli Selatan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Tapanuli Tengah",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Tapanuli Utara",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Kab Toba",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Binjai",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Gunungsitoli",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Medan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "INFOMEDIA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Padangsidempuan",
+      "s": "AKTIF-112",
+      "prov_penyedia": "DSI",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Pematangsiantar",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Sibolga",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Tanjungbalai",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "SUMATRA UTARA",
+      "k": "Tebing Tinggi",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "YOGYAKARTA",
+      "k": "Kab Bantul",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "YOGYAKARTA",
+      "k": "Kab Gunungkidul",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "YOGYAKARTA",
+      "k": "Kab Kulon Progo",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "YOGYAKARTA",
+      "k": "Kab Sleman",
+      "s": "AKTIF-112",
+      "prov_penyedia": "JASNITA",
+      "review": "SESUAI_SUMBER"
+    },
+    {
+      "p": "YOGYAKARTA",
+      "k": "Yogyakarta",
+      "s": "FREE",
+      "prov_penyedia": "FREE",
+      "review": "SESUAI_SUMBER"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+<!doctype html><html lang="id"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>TRADA 2027</title>
+<style>
+:root{--navy:#0B2A6B;--deep:#071C47;--red:#CE2F36;--ink:#12233e;--muted:#64748b;--line:#e4eaf3;--bg:#f5f7fb;--white:#fff}
+*{box-sizing:border-box}html,body{margin:0}body{font-family:-apple-system,Roboto,"Segoe UI",Arial,sans-serif;background:var(--bg);color:var(--ink);-webkit-text-size-adjust:100%}
+.hdr{background:linear-gradient(160deg,#0B2A6B,#102d63);color:#fff;padding:18px 16px calc(16px + env(safe-area-inset-top));padding-top:calc(18px + env(safe-area-inset-top));border-bottom:4px solid var(--red)}
+.hdr .brand{font-size:20px;font-weight:800;letter-spacing:1px}.hdr .brand i{color:#f6575f;font-style:normal}
+.hdr .sub{font-size:12px;opacity:.85;margin-top:3px}.hdr .asof{font-size:11px;opacity:.7;margin-top:6px}
+.wrap{padding:14px 14px 90px;max-width:760px;margin:0 auto}
+.cta{display:block;width:100%;border:0;border-radius:12px;background:var(--navy);color:#fff;font-size:14px;font-weight:700;padding:15px;margin:4px 0 16px;box-shadow:0 8px 22px rgba(11,42,107,.25)}
+.cta.red{background:var(--red)}
+.sec{font-size:12px;font-weight:800;letter-spacing:.08em;color:var(--muted);margin:18px 2px 10px;text-transform:uppercase}
+.cards{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.card{background:var(--white);border:1px solid var(--line);border-radius:14px;padding:14px}
+.card .lab{font-size:11px;color:var(--muted)}.card .val{font-size:21px;font-weight:800;color:var(--navy);margin-top:6px;line-height:1.1}.card .sub{font-size:10px;color:var(--muted);margin-top:4px}
+.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:4px}
+.chip{border:1px solid var(--line);background:#fff;border-radius:20px;padding:6px 11px;font-size:11px;color:var(--navy);font-weight:600}
+.chip b{color:var(--ink)}
+.chip.aktif{background:#e9f8ef;border-color:#c5ebd9;color:#14714b}.chip.free{background:#eef2f8}.chip.warn{background:#fff8e7;border-color:#f2e0b0;color:#8a5e0e}
+.filter{display:flex;gap:8px;margin:12px 0}
+.filter select,.filter input{flex:1;min-width:0;border:1px solid #cfd9e8;border-radius:10px;padding:11px;font-size:13px;background:#fff;color:var(--ink)}
+.rowc{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.r{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:11px 13px;border-bottom:1px solid #eef2f7}
+.r:last-child{border-bottom:0}.r .n{font-size:13px;font-weight:600}.r .p{font-size:11px;color:var(--muted);margin-top:2px}
+.badge{font-size:10px;font-weight:700;padding:4px 8px;border-radius:20px;white-space:nowrap}
+.b-aktif{background:#e9f8ef;color:#14714b}.b-free{background:#eef2f8;color:#51607a}.b-pen{background:#fff0e7;color:#9a4b12}.b-surat{background:#fff8e7;color:#8a5e0e}
+.more{text-align:center;padding:13px;color:var(--navy);font-size:12px;font-weight:700}
+.foot{font-size:11px;color:var(--muted);line-height:1.6;margin-top:18px;border-top:1px solid var(--line);padding-top:12px}
+.err{background:#fff0f0;border:1px solid #f5d3d3;color:#a12b30;border-radius:12px;padding:14px;font-size:13px}
+</style></head>
+<body>
+<div class="hdr">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:10px">
+    <div>
+      <div class="brand">TRADA<i>112</i></div>
+      <div class="sub">Dasbor Eksekutif — Pendapatan &amp; SIAGA112</div>
+      <div class="asof" id="asof"></div>
+    </div>
+    <button onclick="logout()" style="flex:none;background:#ffffff22;color:#fff;border:1px solid #ffffff40;border-radius:9px;padding:8px 12px;font-size:12px;font-weight:700">Keluar</button>
+  </div>
+</div>
+<div class="wrap">
+  <button class="cta" onclick="openOps()">🔐 Buka Aplikasi Operasional (Login)</button>
+  <div id="content"><div class="err" id="err" style="display:none"></div></div>
+  <div class="foot">
+    Data snapshot bersifat luring (offline) dan diperbarui melalui pembaruan aplikasi.
+    Status 112 adalah arsip sinkronisasi berkala, bukan verifikasi real-time Komdigi.
+    Untuk data terkini &amp; transaksi, gunakan tombol Aplikasi Operasional (perlu internet).
+  </div>
+</div>
+<script>
+function rp(n){n=Math.round(Number(n)||0);return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g,'.');}
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function badge(s){var u=String(s||'').toUpperCase();if(u.indexOf('AKTIF')>=0)return'b-aktif';if(u.indexOf('FREE')>=0)return'b-free';if(u.indexOf('PENUNJUKAN')>=0)return'b-pen';return'b-surat';}
+function openOps(){try{if(window.Android&&Android.openOperasional){Android.openOperasional();return;}}catch(e){}
+  location.href='https://script.google.com/macros/s/AKfycbx_f-jHMSWSboiORruEMnc384MEU7G5iHS3sspeQuZk-JzodgtoUdClsv4UV_HqoRXM/exec';}
+function logout(){try{if(window.Android&&Android.logout){Android.logout();return;}}catch(e){}alert('Keluar (pratinjau).');}
+var DATA=null,LIMIT=60;
+function load(){
+  try{var raw=(window.Android&&Android.getSnapshot)?Android.getSnapshot():null;
+    if(!raw){throw new Error('Snapshot tidak tersedia.');}
+    DATA=JSON.parse(raw);render();
+  }catch(e){var el=document.getElementById('err');el.style.display='block';el.textContent='Gagal memuat data snapshot: '+e.message;}
+}
+function render(){
+  var s=DATA.summary||{},sc=DATA.statusCounts||{};
+  document.getElementById('asof').textContent='Terverifikasi per '+esc(DATA.verifiedAsOf||'-');
+  var provs=Array.from(new Set((DATA.rows||[]).map(function(r){return r.p;}))).filter(Boolean).sort();
+  var cards=''+
+   card('Total Klien',s.klienTotal)+
+   card('Target Aktif 2027',s.targetAktif2027,'Berbayar Rp '+rp(s.nilaiTargetBerbayar2027))+
+   card('Invoice Outstanding',s.invoiceOutstandingJml,'Rp '+rp(s.invoiceOutstandingNilai))+
+   card('112 Perlu Review',s.status112PerluReview,'dari '+ (s.status112Total||0)+' wilayah');
+  var chips='<div class="chips">'+Object.keys(sc).map(function(k){
+    var cls=k.toUpperCase().indexOf('AKTIF')>=0?'chip aktif':(k.toUpperCase().indexOf('FREE')>=0?'chip free':'chip warn');
+    return '<span class="'+cls+'">'+esc(k)+' <b>'+sc[k]+'</b></span>';}).join('')+'</div>';
+  var html='<div class="sec">Ringkasan Eksekutif</div><div class="cards">'+cards+'</div>'+
+    '<div class="sec">Status Nasional 112 ('+(DATA.rows||[]).length+' wilayah)</div>'+chips+
+    '<div class="filter"><select id="fprov" onchange="draw()"><option value="">Semua Provinsi</option>'+
+      provs.map(function(p){return '<option>'+esc(p)+'</option>';}).join('')+'</select>'+
+      '<input id="fq" placeholder="Cari kab/kota…" oninput="draw()"></div>'+
+    '<div class="rowc" id="list"></div>';
+  document.getElementById('content').innerHTML=html;draw();
+}
+function card(l,v,sub){return '<div class="card"><div class="lab">'+esc(l)+'</div><div class="val">'+esc(v==null?'-':v)+'</div>'+(sub?'<div class="sub">'+esc(sub)+'</div>':'')+'</div>';}
+function draw(){
+  var prov=(document.getElementById('fprov')||{}).value||'';
+  var q=((document.getElementById('fq')||{}).value||'').toLowerCase();
+  var rows=(DATA.rows||[]).filter(function(r){return (!prov||r.p===prov)&&(!q||(r.k+' '+r.p).toLowerCase().indexOf(q)>=0);});
+  var shown=rows.slice(0,LIMIT);
+  var html=shown.map(function(r){return '<div class="r"><div><div class="n">'+esc(r.k)+'</div><div class="p">'+esc(r.p)+'</div></div>'+
+    '<span class="badge '+badge(r.s)+'">'+esc(r.s||'-')+'</span></div>';}).join('')||'<div class="r"><div class="p">Tidak ada wilayah cocok.</div></div>';
+  if(rows.length>shown.length)html+='<div class="more">+ '+(rows.length-shown.length)+' wilayah lain (perhalus pencarian)</div>';
+  document.getElementById('list').innerHTML=html;
+}
+load();
+</script>
+</body></html>

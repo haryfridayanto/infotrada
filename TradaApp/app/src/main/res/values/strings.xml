@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TRADA 2027</string>
+    <!-- URL Web App Apps Script (deployment /exec). Ganti di sini bila deployment diperbarui. -->
+    <string name="start_url" translatable="false">https://script.google.com/macros/s/AKfycbx_f-jHMSWSboiORruEMnc384MEU7G5iHS3sspeQuZk-JzodgtoUdClsv4UV_HqoRXM/exec</string>
+    <string name="offline_message">Tidak ada koneksi internet. Periksa jaringan lalu tarik ke bawah untuk memuat ulang.</string>
+    <string name="exit_hint">Tekan sekali lagi untuk keluar</string>
+</resources>

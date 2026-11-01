@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Trada" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/trada_navy</item>
+        <item name="colorPrimaryDark">@color/trada_deep</item>
+        <item name="colorAccent">@color/trada_red</item>
+        <item name="android:statusBarColor">@color/trada_navy</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

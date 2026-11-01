@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <group android:scaleX="1.0" android:scaleY="1.0" android:translateX="0" android:translateY="6">
+        <!-- Huruf "T" gaya TRADA -->
+        <path android:fillColor="#FFFFFF" android:pathData="M34,40h40v9h-15.5v30h-9v-30h-15.5z" />
+        <!-- angka 112 kecil -->
+        <path android:fillColor="#F6A0A4" android:pathData="M44,83h4v2h-4z M52,83h4v2h-4z M60,83h4v2h-4z" />
+    </group>
+</vector>
