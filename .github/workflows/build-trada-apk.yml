@@ -3,6 +3,8 @@ on:
   push:
     branches: [ trada-android, main, master ]
   workflow_dispatch: {}
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,8 +14,6 @@ jobs:
         with:
           distribution: temurin
           java-version: '17'
-      # Kosongkan 'packages' agar action tidak memasang paket 'tools' yang sudah dihapus.
-      # Android Gradle Plugin akan mengunduh platform & build-tools yang diperlukan saat build.
       - uses: android-actions/setup-android@v3
         with:
           packages: ''
@@ -23,8 +23,20 @@ jobs:
       - name: Build debug APK
         working-directory: TradaApp
         run: gradle assembleDebug --no-daemon --stacktrace
-      - uses: actions/upload-artifact@v4
+      - name: Rename APK
+        run: cp TradaApp/app/build/outputs/apk/debug/app-debug.apk TRADA_2027_v1.0.apk
+      - name: Upload artifact (cadangan)
+        uses: actions/upload-artifact@v4
         with:
           name: trada-2027-debug-apk
-          path: TradaApp/app/build/outputs/apk/debug/app-debug.apk
+          path: TRADA_2027_v1.0.apk
           if-no-files-found: error
+      - name: Publish ke GitHub Release (tautan unduh langsung)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: trada-apk-v1.0
+          name: TRADA 2027 Android v1.0
+          body: |
+            APK aplikasi TRADA 2027 (hibrida: dasbor luring + aplikasi operasional live).
+            Login: username infosiaga112. Instal dengan mengaktifkan "Instal aplikasi tak dikenal".
+          files: TRADA_2027_v1.0.apk
